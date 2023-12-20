@@ -1,4 +1,4 @@
-# Evil Hangman Program Overview
+# 😈 Evil Hangman Program Overview
 
 Developed a strategic variation of the classic Hangman in Java, utilizing JUnit for testing and JavaDoc for comprehensive documentation.
 
