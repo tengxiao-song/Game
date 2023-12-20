@@ -1,4 +1,4 @@
-# Battleship Program Overview
+# 🛳 Battleship Program Overview
 
 Implemented a one-player version of the Battleship game in Java.
 
