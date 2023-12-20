@@ -1,4 +1,4 @@
-# Spell Checker Program Overview
+# 📖 Spell Checker Program Overview
 
 This simple spell checker program performs the following tasks:
 
