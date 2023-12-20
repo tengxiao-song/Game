@@ -1,4 +1,4 @@
-# Blackjack Solitaire Program Overview
+# ♠️ Blackjack Solitaire Program Overview
 
 Blackjack Solitaire, a one-player card game with scoring rules inspired by Blackjack. The key features and rules of the game are as follows:
 
